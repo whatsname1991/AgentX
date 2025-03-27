@@ -1,4 +1,4 @@
-############ GPT-4 Judge ##################
+############ GPT-4o Judge ##################
 
 
 import os
@@ -25,7 +25,7 @@ def result_print(scores_attacked, mode = "Duo"):
 
 
 def main(
-    input_file="/root/autodl-fs/projects/autodl-fs/projects/data/totoal/advBench/llama2-7b/s-no-o/t-v-7b/0419-512t-vicuna-gpt3.5-prompt3-v-7b.jsonl",
+    input_file="/root/autodl-fs/projects/7b.jsonl",
     **kwargs
 ):
     
